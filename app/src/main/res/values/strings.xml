@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ListGridRecyclerViewActivity</string>
+    <string name="age_hint">age_hint</string>
+    <string name="occupation_hint">occupation_hint</string>
+    <string name="address_hint">address_hint</string>
+    <string name="add_button">add_button</string>
+    <string name="list_view_button">list_view_button</string>
+    <string name="grid_view_button">grid_view_button</string>
+    <string name="recycler_view_button">recycler_view_button</string>
+</resources>
